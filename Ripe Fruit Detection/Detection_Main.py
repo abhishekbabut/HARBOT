@@ -1,6 +1,6 @@
 from ut import *
-from Stepper import *
-from Circle_Color_Detection import *
+from Stepper_Motors import *
+from Red_Circle_Detection import *
 
 def harvest():
     a=0
@@ -15,8 +15,4 @@ def harvest():
         
     if a>4800:
         TOP('ant',4800)
-
-harvest()
-
-    
-    
+   
