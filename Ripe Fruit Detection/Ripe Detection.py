@@ -1,6 +1,6 @@
 import cv2
-from inversek import inverse
-from Stepper import TOP
+from Inverse_Kinematics import inverse
+from Stepper_Motors import TOP
 thres = 0.30 # Threshold to detect object
 known_distance= 40
 tom_width=4
