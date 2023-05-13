@@ -2,7 +2,7 @@ import RPi.GPIO as IO
 import time
 import pyrebase
 from config import *
-from UT_main import *
+from Detection_Main import *
 
 IO.setwarnings(False)
 IO.setmode(IO.BCM)
