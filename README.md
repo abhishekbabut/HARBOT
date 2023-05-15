@@ -13,7 +13,7 @@ HARBOT is a mobile robot arm manipulator that can locate and choose ripe fruits 
 ## STRUCTURE
 
 <img src = "https://github.com/abhishekbabut/HARBOT/assets/76171622/0988c677-842d-4500-99e2-f0031741f1df" width=300 align='left'>
-<img src ="https://github.com/abhishekbabut/HARBOT/assets/76171622/0d8651e5-8cd2-47eb-b872-754417a457d8" width=300 >
+<img src ="https://github.com/abhishekbabut/HARBOT/assets/76171622/0d8651e5-8cd2-47eb-b872-754417a457d8" width=340 >
 
 
 ## APP INNTERFACE
