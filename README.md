@@ -7,11 +7,12 @@ HARBOT is a mobile robot arm manipulator that can locate and choose ripe fruits 
 2. Fully Automated Harvesting Robot.
 3. Path Navigation using Line Follower.
 4. Two DOF Robotic arm for Harvesting Ripe fruits/vegetables
+![gripper](https://github.com/abhishekbabut/HARBOT/assets/76171622/0d8651e5-8cd2-47eb-b872-754417a457d8)
 
 ## STRUCTURE
 
-<img src = "https://github.com/abhishekbabut/HARBOT/assets/76171622/0988c677-842d-4500-99e2-f0031741f1df" width=300>
-<img src="https://github.com/abhishekbabut/HARBOT/assets/76171622/f20b0739-7950-41f7-8b73-9dc85a95a108" width=350>
+<img src = "https://github.com/abhishekbabut/HARBOT/assets/76171622/0988c677-842d-4500-99e2-f0031741f1df" width=300 align='left'>
+<img src ="https://github.com/abhishekbabut/HARBOT/assets/76171622/0d8651e5-8cd2-47eb-b872-754417a457d8" width=350 align='center'>
 
 ## APP INNTERFACE
 <img src="https://github.com/abhishekbabut/HARBOT/assets/76171622/dc4e4021-7cb8-40a2-bba8-c122468321b0" width=200 align='left'>
