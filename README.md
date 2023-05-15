@@ -28,4 +28,6 @@ HARBOT is a mobile robot arm manipulator that can locate and choose ripe fruits 
 4. Raspberry Pi Cam
 5. Gear Motor
 6. IR Sensors
-7. LIPO Battery
+7. 3300 mAh Flipo Battery
+8. A4988 Driver
+9. L298 DC motor driver
