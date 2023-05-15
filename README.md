@@ -4,10 +4,10 @@ HARBOT is a mobile robot arm manipulator that can locate and choose ripe fruits 
 
 
 ## FEATURES
-1. Remotely access the bot using Mobile Applocation.
+1. Remotely access the bot using Mobile Application.
 2. Fully Automated Harvesting Robot.
 3. Path Navigation using Line Follower.
-4. Two DOF Robotic arm for Harvesting Ripe fruits/vegetables
+4. Two DOF Robotic arm for Harvesting Ripe fruits/vegetables.
 
 
 ## STRUCTURE
